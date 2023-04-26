@@ -1,0 +1,207 @@
+*{
+  font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.head{
+    width: 100%;
+    position: absolute;
+    box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+}
+.h-box{
+    float: left;
+    position: relative;
+}
+.h1-box{
+    float: left;
+    margin-left: 36px;
+}
+.dropdown{
+    float: left;
+    margin-top: 10px;
+}
+.location{
+    margin-left: 10px;
+    text-decoration: dashed;
+}
+.button-24{
+    margin-left: 10px;
+}
+.second-links{
+    float: left;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+.logo{
+    float: left;
+    position: relative;
+}
+.links{
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+.button-24 {
+    background: #FF4742;
+    border: 1px solid #FF4742;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+  }
+  
+  .button-24:hover,.button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #FF4742;
+  }
+  
+  .button-24:active {
+    opacity: .5;
+  }
+  .links1{
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 30px;
+    color: black;
+  }
+  .h2-box{
+    margin-left: 40px;
+  }
+  .in-image{
+    width: 748px;
+    height: 333px;
+    
+  }
+  .img{
+    float: left;
+    margin-top: 127px;
+    margin-left: 28px;
+  }
+  .img2{
+    float: left;
+    margin-top: 100px;
+    margin-left: -80px;
+  }
+  .img3{
+    float: left;
+    margin-top: 100px;
+    margin-left: -80px;
+  }
+  .img4{
+    float: left;
+    margin-top: 100px;
+    margin-left: -80px;
+  }
+  .img5{
+    float: left;
+    margin-top: 100px;
+    margin-left: -80px;
+  }
+  .img6{
+    float: left;
+    margin-top: 100px;
+    margin-left: -80px;
+  }
+  .quote{
+    float: left;
+    margin-top: 125px;
+    margin-left: 46px;
+  }
+  .quote1{
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  .para1{
+    width: 380px;
+    font-size: 1pc;
+  }
+  .para2{
+    font-size: 10px;
+
+  }
+  .btn1{
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    padding: 0.8125rem 1.5625rem;
+    text-align: center;
+    font-weight: 400;
+  }
+ .btn{
+  margin-left: 34px;
+  
+ }
+ .box2{
+  margin-left: 109px;
+ }
+ .box3{
+  margin-left: 109px;
+ }
+ .box4{
+  margin-left: 109px;
+ }
+ .box5{
+  margin-left: 109px;
+ }
+ .box6{
+  margin-left: 109px;
+ }
+ .f-box{
+  margin-top: 190px;
+  text-align: center;
+  width: 100%;
+    
+ }
+ .about-us{
+  float: left;
+  margin-left: 64px;
+ }
+ .Services{
+  float: left;
+  margin-left: 175px;
+ }
+ .Community{
+  float: left;
+  margin-left: 175px;
+ }
+ .Contact{
+  float: left;
+  margin-left: 115px;
+ }
+ .footer1{
+  text-decoration: none;
+  margin-top: 6px;
+  color: black;
+ }
+ label{
+  font-weight: 800;
+ }
+ .social{
+  margin-left: 12px;
+  height: auto;
+ }
+ .s-link{
+  margin-left: 22px;
+  margin-top: 10px;
+ }
+ .body-box{
+  height: auto;
+ }
+ .link3{
+  height: auto;
+ }
